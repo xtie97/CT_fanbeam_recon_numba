@@ -10,7 +10,7 @@ Leveraging **numba** to accelerate the computational processes of CT imaging, th
 ## :gear: Features
 
 - **Parallel Computation**: Achieve faster computational times by parallelizing the forward projection and backprojection processes.
-- **Filtered Backprojection**: Utilizes fan-beam geometry to ensure accurate and high-quality reconstructions.
+- **Filtered Backprojection**: Works for fan-beam geometry.
 
 ---
 
